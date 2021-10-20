@@ -69,9 +69,9 @@
 </p>
 -->
 
-
+<center>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ss4mowc02g6qgph3s7957utzm&cover_image=true&theme=default&bar_color=00ff62&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ss4mowc02g6qgph3s7957utzm&redirect=true)
-
+</center>
 
 <!-- websites and link -->
 <p align="center">
