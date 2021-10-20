@@ -5,13 +5,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 
-<!-- first row -->
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ss4mowc02g6qgph3s7957utzm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ss4mowc02g6qgph3s7957utzm&cover_image=true&theme=default&bar_color=00ff62&bar_color_cover=false)]]
-
-
-
+    
 <!-- thropy -->
 <a href="https://arshiamidos.github.io">
     <p align="center">
@@ -74,7 +70,7 @@
 -->
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ss4mowc02g6qgph3s7957utzm&cover_image=true&theme=default&bar_color=00ff62&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ss4mowc02g6qgph3s7957utzm&redirect=true)
 
 
 <!-- websites and link -->
